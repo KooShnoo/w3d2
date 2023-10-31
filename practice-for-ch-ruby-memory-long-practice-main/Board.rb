@@ -31,6 +31,7 @@ class Board
         card.face_val
       end)
     end
+    true 
   end
 
   def won?
